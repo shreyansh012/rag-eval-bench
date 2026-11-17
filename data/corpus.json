@@ -1,0 +1,75 @@
+{
+  "_note": "SYNTHETIC. Written for this demo. Not real guidance.",
+  "documents": [
+    {
+      "id": "d01",
+      "title": "Sourdough starter care",
+      "text": "A sourdough starter is a jar of flour and water that holds wild yeast. Feed it once a day with equal weights of flour and water. Keep the jar in a warm spot. When the starter doubles in size within six hours, it is ready to bake with. A sour smell like vinegar means it is hungry, so feed it sooner."
+    },
+    {
+      "id": "d02",
+      "title": "Repotting a houseplant",
+      "text": "Repot a houseplant when roots circle the inside of the pot or poke out of the drainage holes. Pick a new pot that is only one size larger. Loosen the root ball gently with your fingers, set the plant in fresh potting soil, and water it well. Do not repot in the middle of winter, when growth is slow."
+    },
+    {
+      "id": "d03",
+      "title": "Fixing a flat bicycle tyre",
+      "text": "Remove the wheel and use two levers to lift one side of the tyre off the rim. Pull out the inner tube and find the hole by pumping it up and listening, or by dipping it in water. Check the inside of the tyre for a thorn or glass before fitting a new tube. Pump the tyre to the pressure printed on its side wall."
+    },
+    {
+      "id": "d04",
+      "title": "Reading a tide table",
+      "text": "A tide table lists the time and height of each high tide and low tide for a harbour. Most places have two highs and two lows each day. The gap between a high and the next low is about six hours. Spring tides, the largest, come near the full moon and new moon. Neap tides, the smallest, come near the half moons."
+    },
+    {
+      "id": "d05",
+      "title": "Brewing pour-over coffee",
+      "text": "Grind the beans to the size of coarse sand. Place a paper filter in the cone and rinse it with hot water. Add the ground coffee, then pour a small amount of water to let the grounds bloom for thirty seconds. Pour the rest in slow circles. The whole brew should take about three minutes."
+    },
+    {
+      "id": "d06",
+      "title": "Knitting a gauge swatch",
+      "text": "A gauge swatch is a small square you knit before starting a sweater. Knit it with the same yarn and needles as the project. Wash and dry it the way you will wash the finished piece, then count the stitches and rows in ten centimetres. If you have too many stitches, switch to larger needles."
+    },
+    {
+      "id": "d07",
+      "title": "Reading a bus timetable",
+      "text": "A bus timetable lists stops down the side and departure times across the page. A time shown against a stop is when the bus leaves that stop. Columns marked with a letter, such as S for school days, only run on those days. Plan to arrive at the stop five minutes early, because buses can run ahead of schedule."
+    },
+    {
+      "id": "d08",
+      "title": "Storing seeds over winter",
+      "text": "Collect seeds on a dry day and let them dry for a week on paper. Put them in labelled paper envelopes, not plastic bags, because damp air can cause mould. Keep the envelopes in a cool, dark, dry box. A tin with a packet of dry rice or silica gel helps. Most garden seeds stay good for two to three years."
+    },
+    {
+      "id": "d09",
+      "title": "Sharpening a kitchen knife",
+      "text": "Hold a whetstone steady on a damp cloth. Soak the stone in water for ten minutes first. Set the blade at about fifteen degrees to the stone and push it along as if slicing a thin layer off the stone. Do the same number of strokes on each side. Finish by pulling the edge across a leather strop to remove the burr."
+    },
+    {
+      "id": "d10",
+      "title": "Cleaning a cast iron pan",
+      "text": "Wipe out the pan while it is still warm and rinse with hot water. Avoid soaking it, because water causes rust. Scrub stuck food with coarse salt and a brush instead of strong soap. Dry the pan on the stove, then rub a thin layer of cooking oil over the surface to protect the seasoning."
+    },
+    {
+      "id": "d11",
+      "title": "Starting a freshwater aquarium",
+      "text": "A new tank needs to cycle before fish arrive. Bacteria must grow that turn fish waste, called ammonia, into less harmful nitrate. Add a pinch of fish food each day and test the water. When ammonia and nitrite both read zero, the tank has cycled. This usually takes four to six weeks."
+    },
+    {
+      "id": "d12",
+      "title": "Planning a day hike",
+      "text": "Check the weather forecast and tell someone your route and the time you expect to return. Carry water, a map, a warm layer and a whistle. A steady pace is about four kilometres per hour on flat ground, and you should add one hour for every six hundred metres of climbing. Turn back if the light starts to fade."
+    },
+    {
+      "id": "d13",
+      "title": "Composting kitchen scraps",
+      "text": "A compost heap needs a mix of green waste, such as vegetable peelings, and brown waste, such as dry leaves and cardboard. Aim for about one part green to two parts brown. Turn the heap every few weeks to add air. Avoid meat and dairy because they attract pests. Finished compost is dark, crumbly and smells of earth."
+    },
+    {
+      "id": "d14",
+      "title": "Tuning a guitar by ear",
+      "text": "Start with the low E string and match it to a reference note. Press the fifth fret of that string and play it together with the open A string. Turn the tuning peg until both sound the same. Repeat this up the strings, using the fifth fret each time, except for the G string, which uses the fourth fret to tune the B string."
+    }
+  ]
+}

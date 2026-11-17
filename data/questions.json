@@ -1,0 +1,177 @@
+{
+  "_note": "SYNTHETIC. Frozen question set. Changing it needs a new checksum: python -m rag_eval_bench freeze",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "How often should I feed a sourdough starter?",
+      "expected_ids": [
+        "d01"
+      ],
+      "must_mention": [
+        "once a day",
+        "flour"
+      ]
+    },
+    {
+      "id": "q02",
+      "question": "When is it time to put a plant in a bigger pot?",
+      "expected_ids": [
+        "d02"
+      ],
+      "must_mention": [
+        "roots",
+        "drainage holes"
+      ]
+    },
+    {
+      "id": "q03",
+      "question": "How do I find a puncture in a bike inner tube?",
+      "expected_ids": [
+        "d03"
+      ],
+      "must_mention": [
+        "water",
+        "inner tube"
+      ]
+    },
+    {
+      "id": "q04",
+      "question": "What are spring tides?",
+      "expected_ids": [
+        "d04"
+      ],
+      "must_mention": [
+        "full moon"
+      ]
+    },
+    {
+      "id": "q05",
+      "question": "How long should a pour-over coffee brew take?",
+      "expected_ids": [
+        "d05"
+      ],
+      "must_mention": [
+        "three minutes"
+      ]
+    },
+    {
+      "id": "q06",
+      "question": "Why wash a knitting swatch before measuring?",
+      "expected_ids": [
+        "d06"
+      ],
+      "must_mention": [
+        "wash",
+        "stitches"
+      ]
+    },
+    {
+      "id": "q07",
+      "question": "What does a letter on a bus timetable column mean?",
+      "expected_ids": [
+        "d07"
+      ],
+      "must_mention": [
+        "letter",
+        "school days"
+      ]
+    },
+    {
+      "id": "q08",
+      "question": "How do I keep seeds dry until spring?",
+      "expected_ids": [
+        "d08"
+      ],
+      "must_mention": [
+        "paper envelopes",
+        "dry"
+      ]
+    },
+    {
+      "id": "q09",
+      "question": "At what angle do I hold a knife on a whetstone?",
+      "expected_ids": [
+        "d09"
+      ],
+      "must_mention": [
+        "fifteen degrees"
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "How do I stop rust on a cast iron skillet?",
+      "expected_ids": [
+        "d10"
+      ],
+      "must_mention": [
+        "rust",
+        "oil"
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "How long does a new fish tank take to cycle?",
+      "expected_ids": [
+        "d11"
+      ],
+      "must_mention": [
+        "four to six weeks"
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "What should I pack for a day hike?",
+      "expected_ids": [
+        "d12"
+      ],
+      "must_mention": [
+        "water",
+        "whistle"
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "What can go in a compost heap?",
+      "expected_ids": [
+        "d13"
+      ],
+      "must_mention": [
+        "green",
+        "brown"
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "Which fret do I use to tune the B string?",
+      "expected_ids": [
+        "d14"
+      ],
+      "must_mention": [
+        "fourth fret"
+      ]
+    },
+    {
+      "id": "q15",
+      "question": "How do I look after garden plants over winter?",
+      "expected_ids": [
+        "d02",
+        "d08"
+      ],
+      "must_mention": [
+        "winter"
+      ]
+    },
+    {
+      "id": "q16",
+      "question": "How do I keep a kitchen tool in good condition?",
+      "expected_ids": [
+        "d09",
+        "d10"
+      ],
+      "must_mention": [
+        "edge",
+        "oil"
+      ]
+    }
+  ]
+}

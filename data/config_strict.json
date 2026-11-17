@@ -1,0 +1,12 @@
+{
+  "k": 3,
+  "answer_k": 3,
+  "rank_depth": 10,
+  "runs": 5,
+  "seed": 20260101,
+  "bars": {
+    "bm25": {"recall_at_k": 1.0, "mrr": 1.0, "must_mention_hit_rate": 1.0},
+    "tfidf": {"recall_at_k": 1.0, "mrr": 1.0, "must_mention_hit_rate": 1.0},
+    "overlap": {"recall_at_k": 1.0, "mrr": 1.0, "must_mention_hit_rate": 1.0}
+  }
+}
